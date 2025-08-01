@@ -1,4 +1,4 @@
-# Algorithmic Problems
+# Data Structure and Algorithmis
 #### Arrays:
 :heavy_check_mark: Find the greatest/smallest element(or its index) 
 <br>
