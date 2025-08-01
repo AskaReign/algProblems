@@ -1,4 +1,4 @@
-# Data Structure and Algorithmis
+# Data Structures
 #### Arrays:
 :heavy_check_mark: Find the greatest/smallest element(or its index) 
 <br>
