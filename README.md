@@ -1,4 +1,6 @@
-# Online Algorithmic Problems
-I post some of the problems I have solved
+# Algorithmic Problems
 <br>
-:heavy_check_mark: hey
+#### Arrays:
+:heavy_check_mark: Find the greatest/smallest element(or its index)
+:heavy_check_mark: Find the n greatest/smallest element(s)
+
